@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:whatsapp/Home.dart';
+import 'package:whatsapp/chatUI.dart';
 
 void main() {
   runApp(const MyApp());
